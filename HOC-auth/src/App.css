@@ -1,0 +1,21 @@
+h2 {
+  text-align: center;
+  color: white;
+  font-size: 2rem;
+  margin-top: 10rem;
+}
+
+.login-bttn {
+  align-items: center;
+  text-align: center;
+}
+
+.logout-bttn {
+  text-align: center;
+}
+
+body {
+  background: url('https://media.istockphoto.com/id/1222034739/vector/space-background-starry-night-sky-infinite-universe-and-light-starry-vector-illustration.jpg?s=612x612&w=0&k=20&c=V6TYwCrqMjA0DEbgbWEj3NsPljKchefiwS2_tIOpMM0=');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
